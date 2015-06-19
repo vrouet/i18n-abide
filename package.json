@@ -1,15 +1,15 @@
 {
-  "author": "Austin King <shout@ozten.com> (http://ozten.com)",
-  "name": "i18n-abide",
+  "author": "Valentin Rouet <v.rouet@gmail.com>",
+  "name": "i18n-abide-plurals",
   "description": "Express/connect module for Node i18n and l10n support",
   "version": "0.0.25",
-  "homepage": "https://github.com/mozilla/i18n-abide",
+  "homepage": "https://github.com/vrouet/i18n-abide",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mozilla/i18n-abide.git"
+    "url": "git://github.com/vrouet/i18n-abide.git"
   },
   "bugs": {
-    "url": "http://github.com/mozilla/i18n-abide/issues"
+    "url": "http://github.com/vrouet/i18n-abide/issues"
   },
   "main": "lib/i18n.js",
   "engines": {

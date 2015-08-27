@@ -2,7 +2,7 @@
   "author": "Valentin Rouet <v.rouet@gmail.com>",
   "name": "i18n-abide-plurals",
   "description": "Express/connect module for Node i18n and l10n support",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "homepage": "https://github.com/vrouet/i18n-abide",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "async": "0.9.0",
-    "gobbledygook": "https://github.com/lloyd/gobbledygook/tarball/354042684056e57ca77f036989e907707a36cff2",
+    "gobbledygook": "0.0.3",
     "jsxgettext": "0.8.0",
     "optimist": "0.6.1",
     "plist": "1.1.0"
